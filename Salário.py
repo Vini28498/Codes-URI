@@ -1,0 +1,6 @@
+number =  int(input(""))
+hrs = int(input(""))
+vlr_hrs = float(input(""))
+salario = (hrs * vlr_hrs)
+print("NUMBER = %i"%number)
+print("SALARY = U$ %.2f"%salario)
